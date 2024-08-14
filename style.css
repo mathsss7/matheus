@@ -1,17 +1,10 @@
-.cabecalho {
-    background-color: black;
-    color: azure;
-    display: flex;
-    padding: 24px 0;
-}
-
 .section1 {
     background-color: cyan;
     padding: 100px;
 }
 
 .section2 {
-    background-color: cyan;
+    background-image: linear-gradient(cyan),black);
     padding: 100px;
 }
 .cabecalho{
@@ -20,4 +13,12 @@
 .rodar{
     background-color: black;
     padding: 24px;
+}
+
+.cabecalho_imagem{
+    width: 10%;
+}
+
+.cabecalho{
+    background-color: black;
 }
