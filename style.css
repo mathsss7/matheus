@@ -1,29 +1,26 @@
-.section1 {
-    background-color: cyan;
-    padding: 100px;
-}
-
-.section2 {
-    background-image: linear-gradient(cyan),black);
-    padding: 100px;
-}
 .cabecalho{
-    width: 20%;
-}
-.rodar{
-    background-color: black;
-    padding: 24px;
-}
-
-.cabecalho_imagem{
-    width: 10%;
-}
-
-.cabecalho{
-    background-color: black;
-}
-
-.rodar{
-    background-color: black;
+    background-image: linear-gradient(black,cyan);
     color: aliceblue;
+    display: flex;
+    padding: 240px;
+}
+.section1 {
+   background-image: linear-gradient(cyan,black);
+   color: aliceblue;
+   display: flex;
+    padding: 240px;         
+}
+
+.section2{
+    background-image: linear-gradient(black,cyan);
+    color: aliceblue;
+    display: flex;
+    padding: 240px;
+}
+
+.rodape{
+    background-image: linear-gradient(cyan,black);
+    color: aliceblue;
+    display: flex;
+    padding: 24px;
 }
