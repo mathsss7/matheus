@@ -1,3 +1,10 @@
+.corpodosite{
+    color: white;
+}
+
+
+
+
 .cabecalho{
     background-image: linear-gradient(black,cyan);
     color: aliceblue;
@@ -17,6 +24,10 @@
     display: flex;
     padding: 240px;
 }
+.cabecalho-imagem{
+    width: 2%;         
+}
+
 
 .rodape{
     background-image: linear-gradient(cyan,black);
