@@ -9,7 +9,7 @@
     background-image: linear-gradient(black,cyan);
     color: aliceblue;
     display: flex;
-    padding: 24px;
+    padding: 200;
 }
 .section1 {
    background-image: linear-gradient(cyan,black);
@@ -23,8 +23,8 @@
     display: flex;
     padding: 24px;
 }
-.cabecalho-imagem{
-    width: 100%;         
+.cabecalho_imagem{
+    width: 30%;         
 }
 
 
