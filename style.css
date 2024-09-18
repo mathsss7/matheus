@@ -13,8 +13,8 @@
 }
 .section1 {
    background-image: linear-gradient(cyan,black);
-   padding: 24px;  
-   font-size: 20px;       
+   padding: 200;  
+   font-size: 20px;     
 }
 
 .section2{
@@ -26,8 +26,9 @@
 .cabecalho_imagem{
     width: 30%;         
 }
-
-
+.section2{
+    width: 10%;
+}
 .rodape{
     background-image: linear-gradient(cyan,black);
     color: aliceblue;
